@@ -61,7 +61,7 @@ public class Author {
                 ", books=" + books +
                 '}';
     }
-    //Git test
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
